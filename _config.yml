@@ -1,4 +1,4 @@
-title: Researcher
+title: Hieu Xuan Leu
 url: "https://hieulxswe.github.io"
 baseurl: "/resume"
 
@@ -16,8 +16,8 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
+ - name: "Home"
+   link: "/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"

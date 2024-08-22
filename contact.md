@@ -3,13 +3,13 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [hieulx.swe@gmail.com](mailto:hieulx.swe@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+61420794860](tel:+61420794860)
 
 ---
 
-## Mailing Address
+<!-- ## Mailing Address
 
 > 221B, Baker Street
 >
@@ -17,10 +17,10 @@ is_contact: true
 >
 > United Kingdom
 
----
+--- -->
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Facebook](https://www.facebook.com/hieulxswe/)
+2. [Twitter](https://x.com/hieudev91vn)
+3. [Linkedin](https://www.linkedin.com/in/hieulxswe/)
